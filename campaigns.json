@@ -1,1 +1,14 @@
-[{object},{object},{object}]
+[
+  {
+    "slug": "gibson-giveaway",
+    "headline": "Win a Gibson Les Paul!",
+    "description": "Join our exclusive giveaway. One lucky winner gets a premium Gibson electric guitar.",
+    "formAction": "https://hook.us1.make.com/YOUR-MAKE-WEBHOOK"
+  },
+  {
+    "slug": "summer-sale",
+    "headline": "Summer Cigar Sale!",
+    "description": "Save 20% on all premium cigars through July 4th.",
+    "formAction": "https://hook.us1.make.com/YOUR-MAKE-WEBHOOK"
+  }
+]
